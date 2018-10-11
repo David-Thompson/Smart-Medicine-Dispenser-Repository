@@ -26,8 +26,3 @@ time.sleep (5)
 else:
 print ("AWAITING MOTION")
 time.sleep (0.2)
-
-
-Thanks!
-
-Tom
